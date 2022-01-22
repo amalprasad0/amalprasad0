@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amal Prasad</h1>
 <h3 align="center">A Passionate Programmer Pursuing B tech In Information Science And Engineering At YIT MAQ</h3>
 
+
+
+(https://github.com/amalprasad0/amalprasad0/blob/main/Welcome%20Happy%20to%20see%20you%20here.png)
+
 <p align="left"> <a href="https://twitter.com/amalprasad0" target="blank"><img src="https://img.shields.io/twitter/follow/amalprasad0?logo=twitter&style=for-the-badge" alt="amalprasad0" /></a> </p>
 
 - 🔭 I’m currently working on My College Project **Ocean Era WebSite**
