@@ -1,3 +1,6 @@
+<img href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alamy.com%2Fplanet-icon-with-an-orbital-ring-vector-logo-sign-planet-with-an-orbit-around-the-equator-image395914945.html&psig=AOvVaw20jEKWlWaaUkin3kioZkoC&ust=1642942842571000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCi85u1xfUCFQAAAAAdAAAAABAD" style="position:center;height:64;"> 
+
+
 <h1 align="center">Hi 👋, I'm Amal Prasad</h1>
 <h3 align="center">A Passionate Programmer Pursuing B tech In Information Science And Engineering At YIT MAQ</h3>
 
