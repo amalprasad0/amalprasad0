@@ -39,4 +39,4 @@ Recent Contributions
 
 
 
-<sub>[sponsor me](https://github.com/sponsors/amalprasad0) &nbsp; • &nbsp; [website](https://amalprasad.live/) &nbsp; • &nbsp; [twitter](https://twitter.com/amalprasad0) &nbsp; • &nbsp; [linkedin](https://www.linkedin.com/in/amalprasad0/) &nbsp; • &nbsp; [email](mailto:amalprasad354@gmail.com) &nbsp; • &nbsp; [calendar](https://calendly.com/amalprasad0/30m) &nbsp; • &nbsp; [telegram](https://t.me/amalkp141)</sub>
+<sub>[sponsor me](https://github.com/sponsors/amalprasad0) &nbsp; • &nbsp; [website](https://amalprasad.live/) &nbsp; • &nbsp; [twitter](https://twitter.com/amalprasad0) &nbsp; • &nbsp; [linkedin](https://www.linkedin.com/in/amalprasad0/) &nbsp; • &nbsp; [email](mailto:amalprasad354@gmail.com) &nbsp; • &nbsp; [DEV.to](https://dev.to/amalprasad0) &nbsp; • &nbsp; [telegram](https://t.me/amalkp141)</sub>
