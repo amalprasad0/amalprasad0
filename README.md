@@ -1,7 +1,7 @@
 <h3 align="left">Hi 👋, I'm Amal Prasad</h3>
 <p>A Passionate Programmer willing to learn new technologies</p>
 
-- [🔭 I’m currently working on My College Project **TID Security Assistant Software for Windows**]()
+- [🔭 I’m currently building my Startup company **Liquid Loop codes Ltd**]()
 
 - [👨‍💻 All of my projects are available at [amalprasad.live]](amalprasad.live)
 
