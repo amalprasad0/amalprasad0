@@ -3,7 +3,7 @@
 
 - [🔭 I’m currently building my Startup company **Liquid Loop codes Ltd**](https://liquid-loop.github.io)
 
-- [👨‍💻 All of my projects are available at [Website]](https://amalprasad0.github.io/amal.prasad)
+- [👨‍💻 All of my projects are available at [Website]](https://amalprasad0.github.io)
 
 - [📫 Selected as one in top 4 partcipants in web challenge conducted by Spotix PVT**]()
 
