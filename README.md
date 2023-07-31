@@ -1,7 +1,7 @@
 <h3 align="left">Hi 👋, I'm Amal Prasad</h3>
 <p>A Passionate Programmer willing to learn new technologies</p>
 
-- [🔭 I’m currently building my Startup company **Liquid Loop codes Ltd**](https://liquid-loop.github.io)
+- [🔭 I’m currently building my Startup company **Liquid Loop codes **](https://liquid-loop.github.io)
 
 - [👨‍💻 All of my projects are available at [Website]](https://amalprasad0.github.io)
 
