@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏢I,m Currently working as Software Engineer L2 at ClaySys Tech<br>🔭Founder of Liquid Loop Codes India<br>✨All of my projects are Available at my Portifolio[https://amalprasad0.github.io]<br>🏁Web Challenge hackthon - 3th Position holder <br>🌱Always Willing to Learn news things<br>
+🏢I,m Currently working as Software Engineer L2 at ClaySys Tech<br>🔭Founder of Liquid Loop Codes India[https:liquid-loop.github.io]<br>✨All of my projects are Available at my Portifolio[https://amalprasad0.github.io]<br>🏁Web Challenge hackthon - 3th Position holder <br>🌱Always Willing to Learn news things<br>
 
 
 ## 🌐 Socials:
