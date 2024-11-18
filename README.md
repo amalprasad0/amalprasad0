@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏢I,m Currently working as Software Engineer L2 at ClaySys Tech<br>✨All of my projects are Available at my Portifolio[https://amalxprasad.tech]<br>🏁Web Challenge hackthon by Spotix PVT - 3th Position holder <br>🌱Always Willing to Learn news things<br>
+🏢I,m Currently working as Software Engineer  at ClaySys Tech<br>✨All of my projects are Available at my Portifolio[https://amalxprasad.tech]<br>🏁Web Challenge hackthon by Spotix PVT - 3th Position holder <br>🌱Always Willing to Learn news things<br>
 
 
 ## 🌐 Socials:
